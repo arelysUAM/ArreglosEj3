@@ -1,0 +1,7 @@
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglos_Ejercicio3\Arreglos_Ejercicio3\bin\Debug\Arreglos_Ejercicio3.exe.config
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglos_Ejercicio3\Arreglos_Ejercicio3\bin\Debug\Arreglos_Ejercicio3.exe
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglos_Ejercicio3\Arreglos_Ejercicio3\bin\Debug\Arreglos_Ejercicio3.pdb
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglos_Ejercicio3\Arreglos_Ejercicio3\obj\Debug\Arreglos_Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglos_Ejercicio3\Arreglos_Ejercicio3\obj\Debug\Arreglos_Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglos_Ejercicio3\Arreglos_Ejercicio3\obj\Debug\Arreglos_Ejercicio3.exe
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglos_Ejercicio3\Arreglos_Ejercicio3\obj\Debug\Arreglos_Ejercicio3.pdb

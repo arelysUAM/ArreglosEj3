@@ -1,0 +1,7 @@
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglo_Ejercicio2\Arreglo_Ejercicio2\bin\Debug\Arreglo_Ejercicio2.exe.config
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglo_Ejercicio2\Arreglo_Ejercicio2\bin\Debug\Arreglo_Ejercicio2.exe
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglo_Ejercicio2\Arreglo_Ejercicio2\bin\Debug\Arreglo_Ejercicio2.pdb
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglo_Ejercicio2\Arreglo_Ejercicio2\obj\Debug\Arreglo_Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglo_Ejercicio2\Arreglo_Ejercicio2\obj\Debug\Arreglo_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglo_Ejercicio2\Arreglo_Ejercicio2\obj\Debug\Arreglo_Ejercicio2.exe
+C:\Users\Arelys Castillo\Desktop\Arreglos\Arreglo_Ejercicio2\Arreglo_Ejercicio2\obj\Debug\Arreglo_Ejercicio2.pdb
